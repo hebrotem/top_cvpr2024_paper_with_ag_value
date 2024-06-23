@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SkalskiP.top-cvpr-2024-papers)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=hebrotem.Top_Cvpr2024_Paper_with_Ag_value)
 
 <div align="center">
   <h1 align="center">Top CVPR 2024 Papers with Agriculture Application Values </h1>
