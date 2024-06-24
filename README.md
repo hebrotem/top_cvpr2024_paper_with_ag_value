@@ -15,12 +15,10 @@
 -->
 
 ## 👋 hello
-
-Computer Vision and Pattern Recognition is a massive conference. In **2024** alone,
-**11,532** papers were submitted, and **2,719** were accepted. I created this repository
-to help you search for crème de la crème of CVPR publications. If the paper you are
-looking for is not on my short list, take a peek at the full
-[list](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) of accepted papers.
+Computer Vision and Pattern Recognition (CVPR) is a major conference, and in 2024, it received 11,532 paper submissions, 
+out of which 2,719 were accepted. I've created this repository to help you find the best of the best from CVPR publications. 
+If the paper you seek isn't in my curated list, feel free to check out the full [list](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) of accepted papers.
+.
 
 ## 🗞️ papers and posters
 
