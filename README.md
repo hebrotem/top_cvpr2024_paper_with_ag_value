@@ -20,7 +20,7 @@ out of which 2,719 were accepted. I've created this repository to help you find 
 If the paper you seek isn't in my curated list, feel free to check out the full [list](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) of accepted papers.
 .
 
-# 【CVPR 2024】
+# 【CVPR 2024 Papers Extendable to Agriculture】
 
 ### 3d from multi-view and sensors
 
