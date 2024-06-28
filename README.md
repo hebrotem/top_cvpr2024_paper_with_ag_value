@@ -29,9 +29,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
 ---
 <a name="Image-and-video-synthesis-and-generation"></a>
 ### Image and video synthesis and generation
- - <p align="left">
-   <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31616.png?t=1716470830.0209699" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/0453bf88-9d54-4ecf-8a45-01af0f604faf" alt="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models" width="400px" align="left" />
+<p align="left">
     <a href="https://arxiv.org/abs/2309.11497" title="FreeU: Free Lunch in Diffusion U-Net">
        <strong>FreeU: Free Lunch in Diffusion U-Net</strong>
     </a>
@@ -42,11 +40,8 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     <strong>Likely application in agriculture:</strong> Data augmentation
 </p>
-<br/>
-<br/>
-<br/>
 
-- <p align="left">
+<p align="left">
     <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
        <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
     </a>
@@ -59,8 +54,95 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
 </p>
 <br/>
 
+<p align="left">
+    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
+       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+    </a>
+    <br/>
+    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    <br/>
+  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <br/>
+    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+</p>
+<br/>
 
+<p align="left">
+    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
+       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+    </a>
+    <br/>
+    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    <br/>
+  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <br/>
+    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+</p>
+<br/>
 
+<p align="left">
+    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
+       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+    </a>
+    <br/>
+    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    <br/>
+  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <br/>
+    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+</p>
+<br/>
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
+       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+    </a>
+    <br/>
+    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    <br/>
+  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <br/>
+    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+</p>
+<br/>
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
+       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+    </a>
+    <br/>
+    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    <br/>
+  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <br/>
+    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+</p>
+<br/>
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
+       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+    </a>
+    <br/>
+    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    <br/>
+  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <br/>
+    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+</p>
+<br/>
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
+       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+    </a>
+    <br/>
+    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    <br/>
+  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <br/>
+    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+</p>
 
 <a name="Object-Detection"></a>
 ### Object Detection
