@@ -22,12 +22,11 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
 
 # 【CVPR 2024 Papers Extendable to Agriculture】
 
+- [3DGS(Gaussian Splatting)](#3DGS)
+
 ### 3d from multi-view and sensors
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31668.png?t=1717417393.7589533" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/56498f78-2ca0-46ee-9231-6aa1806b6ebc" alt="SpatialTracker: Tracking Any 2D Pixels in 3D Space" width="400px" align="left" />
-    </a>
     <a href="https://arxiv.org/abs/2404.04319" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space">
         <strong>🔥 SpatialTracker: Tracking Any 2D Pixels in 3D Space</strong>
     </a>
