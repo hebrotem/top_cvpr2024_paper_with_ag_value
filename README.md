@@ -21,23 +21,77 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
 .
 
 # 【CVPR 2024 Papers Extendable to Agriculture】
+---
+- [Image and video synthesis and generation](#Image-and-video-synthesis-and-generation)
+- [Object detection](#Object-Detection)
+- [3D from multi-view and sensors](#3D)
 
-- [3DGS(Gaussian Splatting)](#3DGS)
+---
+<a name="Image-and-video-synthesis-and-generation"></a>
+### Image and video synthesis and generation
+ - <p align="left">
+   <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31616.png?t=1716470830.0209699" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/0453bf88-9d54-4ecf-8a45-01af0f604faf" alt="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models" width="400px" align="left" />
+    <a href="https://arxiv.org/abs/2309.11497" title="FreeU: Free Lunch in Diffusion U-Net">
+       <strong>FreeU: Free Lunch in Diffusion U-Net</strong>
+    </a>
+    <br/>
+    Authors: Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu
+    <br/>
+    [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/ChenyangSi/FreeU">Code</a>] [<a href="https://www.youtube.com/watch?v=eFmkJ_oEW5s">Video</a>]   
+    <br/>
+    <strong>Likely application in agriculture:</strong> Data augmentation
+</p>
+<br/>
+<br/>
+<br/>
 
-### 3d from multi-view and sensors
+- <p align="left">
+    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
+       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+    </a>
+    <br/>
+    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    <br/>
+  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <br/>
+    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+</p>
+<br/>
+
+
+
+
+<a name="Object-Detection"></a>
+### Object Detection
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2312.01220" title="DETRs Beat YOLOs on Real-time Object Detection">
+       <strong>Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation</strong>
+    </a>
+    <br/>
+    Zhipeng Du, Miaojing Shi, Jiankang Deng
+    <br/>
+    [<a href="https://arxiv.org/abs/2312.01220">Paper</a>] [<a href="https://github.com/ZPDu/DAI-Net"> Code</a>] [<a href="https://www.youtube.com/watch?v=X44b2lInZzk">Video</a>]   
+    <br/>
+    <strong>Topic:</strong> 3D from multi-view and sensors
+</p>
+<br/>
+<br/>
+
+<a name="3D"></a>
+### 3D from multi-view and sensors
 
 <p align="left">
     <a href="https://arxiv.org/abs/2404.04319" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space">
-        <strong>🔥 SpatialTracker: Tracking Any 2D Pixels in 3D Space</strong>
+       <strong>SpatialTracker: Tracking Any 2D Pixels in 3D Space</strong>
     </a>
     <br/>
     Yuxi Xiao, Qianqian Wang, Shangzhan Zhang, Nan Xue, Sida Peng, Yujun Shen, Xiaowei Zhou
     <br/>
-    [<a href="https://arxiv.org/abs/2404.04319">paper</a>] [<a href="https://github.com/henry123-boy/SpaTracker">code</a>]   
+    [<a href="https://arxiv.org/abs/2404.04319">Paper</a>] [<a href="https://github.com/henry123-boy/SpaTracker"> Code</a>] [<a href="https://www.youtube.com/watch?v=Z6TcrGf97mM">Video</a>]   
     <br/>
     <strong>Topic:</strong> 3D from multi-view and sensors
-    <br/>
-    <strong>Session:</strong> Fri 21 Jun 1:30 p.m. EDT — 3 p.m. EDT #84
 </p>
 <br/>
 <br/>
