@@ -21,128 +21,133 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
 .
 
 # 【CVPR 2024 Papers Extendable to Agriculture】
----
-- [Image and video synthesis and generation](#Image-and-video-synthesis-and-generation)
-- [Object detection](#Object-Detection)
-- [3D from multi-view and sensors](#3D)
+
+<details> <summary>List of Papers</summary>
+    
+  - [Image and video synthesis and generation](#Image-and-video-synthesis-and-generation)
+  - [Object detection](#Object-Detection)
+  - [3D from multi-view and sensors](#3D)
+</details>
 
 ---
 <a name="Image-and-video-synthesis-and-generation"></a>
 ### Image and video synthesis and generation
-<p align="left">
+- <p align="left">
     <a href="https://arxiv.org/abs/2309.11497" title="FreeU: Free Lunch in Diffusion U-Net">
        <strong>FreeU: Free Lunch in Diffusion U-Net</strong>
     </a>
     <br/>
     Authors: Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu
     <br/>
-    [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/ChenyangSi/FreeU">Code</a>] [<a href="https://www.youtube.com/watch?v=eFmkJ_oEW5s">Video</a>]   
+  <a href="https://arxiv.org/abs/2403.14602"><img src="https://img.shields.io/badge/arXiv-freeu-b31b1b.svg" height=20.5></a> 
+  <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/ChenyangSi/FreeU"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://www.youtube.com/watch?v=eFmkJ_oEW5s"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>   
     <br/>
     <strong>Likely application in agriculture:</strong> Data augmentation
 </p>
 
-<p align="left">
-    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
-       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+- <p align="left">
+    <a href="https://arxiv.org/abs/2402.19481" title="DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models">
+       <strong>DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models</strong>
     </a>
     <br/>
-    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    Muyang Li, Tianle Cai, Jiaxin Cao, Qinsheng Zhang, Han Cai, Junjie Bai, Yangqing Jia, Kai Li, Song Han
     <br/>
-  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+     <a href="https://arxiv.org/abs/2402.19481"><img src="https://img.shields.io/badge/arXiv-distriFusion-b31b1b.svg" height=20.5></a> <a href="href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_DistriFusion_Distributed_Parallel_Inference_for_High-Resolution_Diffusion_Models_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/mit-han-lab/distrifuser"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a>
     <br/>
-    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+    <strong>Likely application in agriculture:</strong> Data augmentation
 </p>
-<br/>
 
-<p align="left">
+- <p align="left">
     <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
        <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
     </a>
     <br/>
     Katherine Xu, Lingzhi Zhang, Jianbo Shi
     <br/>
-  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <a href="https://arxiv.org/abs/2312.15540"><img src="https://img.shields.io/badge/arXiv-Amodal-b31b1b.svg" height=20.5></a> <a href="href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/k8xu/amodal"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a>
     <br/>
     <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
 </p>
-<br/>
 
-<p align="left">
-    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
-       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+- <p align="left">
+    <a href="https://arxiv.org/abs/2405.20324" title="Don't Drop Your Samples! Coherence-Aware Training Benefits Conditional Diffusion">
+       <strong>Don't Drop Your Samples! Coherence-Aware Training Benefits Conditional Diffusion</strong>
     </a>
     <br/>
-    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    Nicolas Dufour, Victor Besnier, Vicky Kalogeiton, David Picard
     <br/>
-  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <a href="https://arxiv.org/abs/2405.20324"><img src="https://img.shields.io/badge/arXiv-Don't Drop-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Dufour_Dont_Drop_Your_Samples_Coherence-Aware_Training_Benefits_Conditional_Diffusion_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/nicolas-dufour/CAD"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://www.youtube.com/watch?v=4Tu-x2-Zcxs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5>        </a>
     <br/>
-    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+    <strong>Likely application in agriculture:</strong> Deep data augmentation
 </p>
-<br/>
 
-<p align="left">
-    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
-       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+- <p align="left">
+    <a href="https://arxiv.org/abs/2312.06038" title="Correcting Diffusion Generation through Resampling">
+       <strong>Correcting Diffusion Generation through Resampling</strong>
     </a>
     <br/>
-    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    Yujian Liu, Yang Zhang, Tommi Jaakkola, Shiyu Chang
     <br/>
-  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+     <a href="https://arxiv.org/abs/2312.06038"><img src="https://img.shields.io/badge/arXiv-Correcting-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Correcting_Diffusion_Generation_through_Resampling_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/UCSB-NLP-Chang/diffusion_resampling"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a>
     <br/>
-    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+    <strong>Likely application in agriculture:</strong> Text-conditioned image generation
 </p>
-<br/>
 
-<p align="left">
-    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
-       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+- <p align="left">
+    <a href="https://arxiv.org/abs/2311.17002" title="Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following">
+    <strong>Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following </strong>
     </a>
     <br/>
-    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    Yutong Feng, Biao Gong, Di Chen, Yujun Shen, Yu Liu, Jingren Zhou
     <br/>
-  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <a href="https://arxiv.org/abs/2311.17002"><img src="https://img.shields.io/badge/arXiv-Ranni-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Feng_Ranni_Taming_Text-to-Image_Diffusion_for_Accurate_Instruction_Following_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/ali-vilab/Ranni"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href='https://ranni-t2i.github.io/Ranni/'><img src="https://img.shields.io/badge/Project_Page-Ranni-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=1IIat83Atjk"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
     <br/>
-    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+    <strong>Likely application in agriculture:</strong> Text-to-Image
 </p>
-<br/>
 
-<p align="left">
-    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
-       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+- <p align="left">
+    <a href="https://arxiv.org/abs/2312.02149" title="Don't Drop Your Samples! Coherence-Aware Training Benefits Conditional Diffusion">
+       <strong>Generative Powers of Ten</strong>
     </a>
     <br/>
-    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    Xiaojuan Wang, Janne Kontkanen, Brian Curless, Steve Seitz, Ira Kemelmacher, Ben Mildenhall, Pratul Srinivasan, Dor Verbin, Aleksander Holynski
     <br/>
-  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <a href="https://arxiv.org/abs/2312.02149"><img src="https://img.shields.io/badge/arXiv-Gen Ten-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Generative_Powers_of_Ten_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href='powers-of-ten.github.io/'><img src="https://img.shields.io/badge/Project_Page-Generative_power-blue' alt='Project Page"></a>  <a href="https://www.youtube.com/watch?v=0fKBhvDjuy0"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
     <br/>
-    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+    <strong>Likely application in agriculture:</strong> Text-to-image
 </p>
-<br/>
 
-<p align="left">
-    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
-       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+- <p align="left">
+    <a href="https://arxiv.org/abs/2405.20324" title="Don't Drop Your Samples! Coherence-Aware Training Benefits Conditional Diffusion">
+       <strong>Don't Drop Your Samples! Coherence-Aware Training Benefits Conditional Diffusion</strong>
     </a>
     <br/>
-    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    Nicolas Dufour, Victor Besnier, Vicky Kalogeiton, David Picard
     <br/>
-  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <a href="https://arxiv.org/abs/2405.20324"><img src="https://img.shields.io/badge/arXiv-Don't Drop-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Dufour_Dont_Drop_Your_Samples_Coherence-Aware_Training_Benefits_Conditional_Diffusion_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/nicolas-dufour/CAD"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://www.youtube.com/watch?v=4Tu-x2-Zcxs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5>        </a>
     <br/>
-    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+    <strong>Likely application in agriculture:</strong> Deep data augmentation
 </p>
-<br/>
 
-<p align="left">
-    <a href="https://arxiv.org/abs/2312.15540" title="Amodal Completion via Progressive Mixed Context Diffusion">
-       <strong>Amodal Completion via Progressive Mixed Context Diffusion</strong>
+- <p align="left">
+    <a href="https://arxiv.org/abs/2405.20324" title="Don't Drop Your Samples! Coherence-Aware Training Benefits Conditional Diffusion">
+       <strong>Don't Drop Your Samples! Coherence-Aware Training Benefits Conditional Diffusion</strong>
     </a>
     <br/>
-    Katherine Xu, Lingzhi Zhang, Jianbo Shi
+    Nicolas Dufour, Victor Besnier, Vicky Kalogeiton, David Picard
     <br/>
-  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf">PDF</a>] [<a href="https://github.com/k8xu/amodal">     Code</a>]  
+    <a href="https://arxiv.org/abs/2405.20324"><img src="https://img.shields.io/badge/arXiv-Don't Drop-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Dufour_Dont_Drop_Your_Samples_Coherence-Aware_Training_Benefits_Conditional_Diffusion_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/nicolas-dufour/CAD"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://www.youtube.com/watch?v=4Tu-x2-Zcxs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5>        </a>
     <br/>
-    <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
+    <strong>Likely application in agriculture:</strong> Deep data augmentation
 </p>
+
+
 
 <a name="Object-Detection"></a>
 ### Object Detection
