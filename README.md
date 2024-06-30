@@ -39,7 +39,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     Authors: Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu
     <br/>
-  <a href="https://arxiv.org/abs/2403.14602"><img src="https://img.shields.io/badge/arXiv-freeu-b31b1b.svg" height=20.5></a> 
+  <a href="https://arxiv.org/abs/2403.14602"><img src="https://img.shields.io/badge/arXiv-FreeU-b31b1b.svg" height=20.5></a> 
   <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/ChenyangSi/FreeU"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://chenyangsi.top/FreeU/"><img src="https://img.shields.io/badge/Project_Page-FreeU-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=eFmkJ_oEW5s"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>   
     <br/>
     <strong>Likely application in agriculture:</strong> Data augmentation
@@ -90,7 +90,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     Yujian Liu, Yang Zhang, Tommi Jaakkola, Shiyu Chang
     <br/>
      <a href="https://arxiv.org/abs/2312.06038"><img src="https://img.shields.io/badge/arXiv-Correcting-b31b1b.svg" height=20.5></a> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Correcting_Diffusion_Generation_through_Resampling_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/UCSB-NLP-Chang/diffusion_resampling"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://nicolas-dufour.github.io/cad"><img src="https://img.shields.io/badge/Project_Page-Don't_Drop-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=4Tu-x2-Zcxs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Correcting_Diffusion_Generation_through_Resampling_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/UCSB-NLP-Chang/diffusion_resampling"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://nicolas-dufour.github.io/cad"><img src="https://img.shields.io/badge/Project_Page-Correcting-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=4Tu-x2-Zcxs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
     <br/>
     <strong>Likely application in agriculture:</strong> Text-conditioned image generation
 </p>
@@ -141,24 +141,63 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     Zhengyao Lv, Yuxiang Wei, Wangmeng Zuo2, Kwan-Yee K. Wong
     <br/>
-    <a href="https://arxiv.org/abs/2403.01852"><img src="https://img.shields.io/badge/arXiv-Don't Drop-b31b1b.svg" height=20.5></a> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Lv_PLACE_Adaptive_Layout-Semantic_Fusion_for_Semantic_Image_Synthesis_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/cszy98/PLACE"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://cszy98.github.io/PLACE/"><img src="https://img.shields.io/badge/Project_Page-Generative-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=47mMAmclPWw"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
+    <a href="https://arxiv.org/abs/2403.01852"><img src="https://img.shields.io/badge/arXiv-PLACE-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Lv_PLACE_Adaptive_Layout-Semantic_Fusion_for_Semantic_Image_Synthesis_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/cszy98/PLACE"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://cszy98.github.io/PLACE/"><img src="https://img.shields.io/badge/Project_Page-PLACE-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=47mMAmclPWw"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
     <br/>
     <strong>Likely application in agriculture:</strong> Deep Segmatic image generation
 </p>
 
 - <p align="left">
-    <a href="https://arxiv.org/abs/2403.01852" title="PLACE: Adaptive Layout-Semantic Fusion for Semantic Image Synthesis">
-       <strong>PLACE: Adaptive Layout-Semantic Fusion for Semantic Image Synthesis</strong>
+    <a href="https://arxiv.org/abs/2312.02150" title="Readout Guidance: Learning Control from Diffusion Features">
+       <strong>Readout Guidance: Learning Control from Diffusion Features</strong>
     </a>
     <br/>
-    Zhengyao Lv, Yuxiang Wei, Wangmeng Zuo2, Kwan-Yee K. Wong
+    Grace Luo, Trevor Darrell, Oliver Wang, Dan B Goldman, Aleksander Holynski
     <br/>
-    <a href="https://arxiv.org/abs/2403.01852"><img src="https://img.shields.io/badge/arXiv-Don't Drop-b31b1b.svg" height=20.5></a> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Lv_PLACE_Adaptive_Layout-Semantic_Fusion_for_Semantic_Image_Synthesis_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/cszy98/PLACE"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://cszy98.github.io/PLACE/"><img src="https://img.shields.io/badge/Project_Page-Generative-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=47mMAmclPWw"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
+    <a href="https://arxiv.org/abs/2312.02150"><img src="https://img.shields.io/badge/arXiv-Readout-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Readout_Guidance_Learning_Control_from_Diffusion_Features_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/google-research/readout_guidance"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://readout-guidance.github.io/"><img src="https://img.shields.io/badge/Project_Page-Readout-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=VoA5WLRN-Oo"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
     <br/>
     <strong>Likely application in agriculture:</strong> Deep Segmatic image generation
 </p>
+
+- <p align="left">
+    <a href="https://arxiv.org/abs/2311.16503" title="TFMQ-DM: Temporal Feature Maintenance Quantization for Diffusion Models">
+       <strong>TFMQ-DM: Temporal Feature Maintenance Quantization for Diffusion Models</strong>
+    </a>
+    <br/>
+    Yushi Huang, Ruihao Gong, Jing Liu, Tianlong Chen, Xianglong Liu
+  <br/>
+    <a href="https://arxiv.org/abs/2311.16503"><img src="https://img.shields.io/badge/arXiv-TFMQ_DM-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_TFMQ-DM_Temporal_Feature_Maintenance_Quantization_for_Diffusion_Models_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/ModelTC/TFMQ-DM"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://modeltc.github.io/TFMQ-DM/"><img src="https://img.shields.io/badge/Project_Page-TFMQ_DM-blue' alt='Project Page"></a> 
+    <br/>
+    <strong>Likely application in agriculture:</strong> Edge-efficient image generation
+</p>
+
+- <p align="left">
+    <a href="https://arxiv.org/abs/2404.04650" title="InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization">
+    <strong>InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization</strong>
+    </a>
+    <br/>
+    Xiefan Guo, Jinlin Liu, Miaomiao Cui, Jiankai Li, Hongyu Yang, Di Huang
+  <br/>
+    <a href="https://arxiv.org/abs/2404.04650"><img src="https://img.shields.io/badge/arXiv-InitNo-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_InitNO_Boosting_Text-to-Image_Diffusion_Models_via_Initial_Noise_Optimization_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/xiefan-guo/initno"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://xiefan-guo.github.io/initno/"><img src="https://img.shields.io/badge/Project_Page-InitNO-blue' alt='Project Page"></a> 
+    <br/>
+    <strong>Likely application in agriculture:</strong> Text-to-Image
+</p>
+
+<!--- <p align="left">
+    <a href="https://arxiv.org/abs/2312.10835" title="Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models">
+    <strong>Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models</strong>
+    </a>
+    <br/>
+    Nikita Starodubcev, Dmitry Baranchuk, Artem Fedorov, Artem Babenko
+    <br/>
+    <a href="https://arxiv.org/abs/2312.10835"><img src="https://img.shields.io/badge/arXiv-InitNo-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Starodubcev_Your_Student_is_Better_Than_Expected_Adaptive_Teacher-Student_Collaboration_for_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/yandex-research/adaptive-diffusion"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://readout-guidance.github.io/"><img src="https://img.shields.io/badge/Project_Page-Generative-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=VoA5WLRN-Oo"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
+    <br/>
+    <strong>Likely application in agriculture:</strong> Deep Segmatic image generation
+</p> -->
 
 
 
