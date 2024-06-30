@@ -25,8 +25,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
 <details> <summary>List of Papers</summary>
     
   - [Image and video synthesis and generation](#Image-and-video-synthesis-and-generation)
-  - [Object detection](#Object-Detection)
-  - [3D from multi-view and sensors](#3D)
+  - [3D from multi-view and sensors](#3DfromMulti)
 </details>
 
 ---
@@ -200,76 +199,75 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
 </p> -->
 
 
+<a name="3DfromMulti"></a>
+### 3D from multi-view and sensors
 
-<a name="Object-Detection"></a>
-### Object Detection
+- <p align="left">
+    <a href="https://arxiv.org/abs/2304.08069" title="DETRs Beat YOLOs on Real-time Object Detection">
+    <strong>DETRs Beat YOLOs on Real-time Object Detection</strong>
+    </a>
+    <br/>
+    Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen
+    <br/>
+    <a href="https://arxiv.org/abs/2304.08069"><img src="https://img.shields.io/badge/arXiv-DETRs_YOLOs-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/lyuwenyu/RT-DETR"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://zhao-yian.github.io/RTDETR/"><img src="https://img.shields.io/badge/Project_Page-DETRs_YOLOs-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=UOc0qMSX4Ac"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
+    <br/>
+    <strong>Likely application in agriculture:</strong> disease detection
+</p>
 
-<p align="left">
+- <p align="left">
     <a href="https://arxiv.org/abs/2312.01220" title="DETRs Beat YOLOs on Real-time Object Detection">
        <strong>Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation</strong>
     </a>
     <br/>
     Zhipeng Du, Miaojing Shi, Jiankang Deng
     <br/>
-    [<a href="https://arxiv.org/abs/2312.01220">Paper</a>] [<a href="https://github.com/ZPDu/DAI-Net"> Code</a>] [<a href="https://www.youtube.com/watch?v=X44b2lInZzk">Video</a>]   
+    <a href="https://arxiv.org/abs/2304.08069"><img src="https://img.shields.io/badge/arXiv-DETRs_YOLOs-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/lyuwenyu/RT-DETR"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://zhao-yian.github.io/RTDETR/"><img src="https://img.shields.io/badge/Project_Page-DETRs_YOLOs-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=UOc0qMSX4Ac"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
     <br/>
-    <strong>Topic:</strong> 3D from multi-view and sensors
+    <strong>Likely application in agriculture:</strong> disease detection
 </p>
-<br/>
-<br/>
 
-<a name="3D"></a>
-### 3D from multi-view and sensors
-
-<p align="left">
+- <p align="left">
     <a href="https://arxiv.org/abs/2404.04319" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space">
        <strong>SpatialTracker: Tracking Any 2D Pixels in 3D Space</strong>
     </a>
     <br/>
     Yuxi Xiao, Qianqian Wang, Shangzhan Zhang, Nan Xue, Sida Peng, Yujun Shen, Xiaowei Zhou
     <br/>
-    [<a href="https://arxiv.org/abs/2404.04319">Paper</a>] [<a href="https://github.com/henry123-boy/SpaTracker"> Code</a>] [<a href="https://www.youtube.com/watch?v=Z6TcrGf97mM">Video</a>]   
+    <a href="https://arxiv.org/abs/2304.08069"><img src="https://img.shields.io/badge/arXiv-DETRs_YOLOs-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/lyuwenyu/RT-DETR"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://zhao-yian.github.io/RTDETR/"><img src="https://img.shields.io/badge/Project_Page-DETRs_YOLOs-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=UOc0qMSX4Ac"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
     <br/>
-    <strong>Topic:</strong> 3D from multi-view and sensors
+    <strong>Likely application in agriculture:</strong> disease detection
 </p>
-<br/>
-<br/>
 
 
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31616.png?t=1716470830.0209699" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/0453bf88-9d54-4ecf-8a45-01af0f604faf" alt="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://arxiv.org/abs/2403.01807" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models">
         <strong>ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models</strong>
     </a>
     <br/>
     Lukas Höllein, Aljaž Božič, Norman Müller, David Novotny, Hung-Yu Tseng, Christian Richardt, Michael Zollhöfer, Matthias Nießner
     <br/>
-    [<a href="https://arxiv.org/abs/2403.01807">paper</a>] [<a href="https://github.com/facebookresearch/ViewDiff">code</a>] [<a href="https://youtu.be/SdjoCqHzMMk">video</a>]  
+       <a href="https://arxiv.org/abs/2304.08069"><img src="https://img.shields.io/badge/arXiv-DETRs_YOLOs-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/lyuwenyu/RT-DETR"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://zhao-yian.github.io/RTDETR/"><img src="https://img.shields.io/badge/Project_Page-DETRs_YOLOs-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=UOc0qMSX4Ac"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
     <br/>
-    <strong>Topic:</strong> 3D from multi-view and sensors
-    <br/>
-    <strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #20
+    <strong>Likely application in agriculture:</strong> disease detection
 </p>
-<br/>
-<br/>
 
 
-<p align="left">
+- <p align="left">
     <a href="https://arxiv.org/abs/2405.12979" title="OmniGlue: Generalizable Feature Matching with Foundation Model Guidance">
         <strong>OmniGlue: Generalizable Feature Matching with Foundation Model Guidance</strong>
     </a>
     <br/>
     Hanwen Jiang, Arjun Karpur, Bingyi Cao, Qixing Huang, Andre Araujo
     <br/>
-    [<a href="https://arxiv.org/abs/2405.12979">paper</a>] [<a href="https://github.com/google-research/omniglue">code</a>]  [<a href="https://huggingface.co/spaces/qubvel-hf/omniglue">demo</a>] 
+    <a href="https://arxiv.org/abs/2304.08069"><img src="https://img.shields.io/badge/arXiv-DETRs_YOLOs-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/lyuwenyu/RT-DETR"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://zhao-yian.github.io/RTDETR/"><img src="https://img.shields.io/badge/Project_Page-DETRs_YOLOs-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=UOc0qMSX4Ac"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
     <br/>
-    <strong>Topic:</strong> 3D from multi-view and sensors
-    <br/>
-    <strong>Session:</strong> Fri 21 Jun 1:30 p.m. EDT — 3 p.m. EDT #32
+    <strong>Likely application in agriculture:</strong> disease detection
 </p>
-<br/>
 
 ### deep learning architectures and techniques
 
