@@ -226,7 +226,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <a href="https://arxiv.org/abs/2312.01220"><img src="https://img.shields.io/badge/arXiv-Boosting-b31b1b.svg" height=20.5></a> 
     <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Du_Boosting_Object_Detection_with_Zero-Shot_Day-Night_Domain_Adaptation_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/ZPDu/DAI-Net"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://zpdu.github.io/DAINet_page/"><img src="https://img.shields.io/badge/Project_Page-Boosting-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=X44b2lInZzk"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
     <br/>
-    <strong>Likely application in agriculture:</strong> disease detection
+    <strong>Likely application in agriculture:</strong> Disease detection
 </p>
 
 - <p align="left">
@@ -239,7 +239,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <a href="https://arxiv.org/abs/2404.04319"><img src="https://img.shields.io/badge/arXiv-SpaTracker-b31b1b.svg" height=20.5></a> 
     <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_SpatialTracker_Tracking_Any_2D_Pixels_in_3D_Space_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/henry123-boy/SpaTracker"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://henry123-boy.github.io/SpaTracker/"><img src="https://img.shields.io/badge/Project_Page-SpaTracker-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=Z6TcrGf97mM"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
     <br/>
-    <strong>Likely application in agriculture:</strong> trajectory prediction
+    <strong>Likely application in agriculture:</strong> Trajectory prediction
 </p>
 
 - <p align="left">
@@ -249,11 +249,11 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     Khang Truong Giang, Soohwan Song, Sungho Jo
     <br/>
-       <a href="https://arxiv.org/abs/2402.08359"><img src="https://img.shields.io/badge/arXiv-DeViLoc-b31b1b.svg" height=20.5></a> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Giang_Learning_to_Produce_Semi-dense_Correspondences_for_Visual_Localization_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/TruongKhang/DeViLoc"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://www.youtube.com/watch?v=1z_fvbr1im4"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
-    <br/>
-    <strong>Likely application in agriculture:</strong> Ag-Robot localization
-</p>
+    <a href="https://arxiv.org/abs/2402.08359"><img src="https://img.shields.io/badge/arXiv-DeViLoc-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Giang_Learning_to_Produce_Semi-dense_Correspondences_for_Visual_Localization_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/TruongKhang/DeViLoc"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://www.youtube.com/watch?v=1z_fvbr1im4"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5>     </a> 
+  <br/>
+  <strong>Likely application in agriculture:</strong> Ag-Robot localization
+  </p>
 
 - <p align="left">
     <a href="https://arxiv.org/abs/2311.11013" title="Implicit Event-RGBD Neural SLAM">
@@ -262,7 +262,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     Delin Qu, Chi Yan, Dong Wang, Jie Yin, Dan Xu, Bin Zhao, Xuelong Li
     <br/>
-       <a href="https://arxiv.org/abs/2311.11013"><img src="https://img.shields.io/badge/arXiv-EN_RGBD-b31b1b.svg" height=20.5></a> 
+    <a href="https://arxiv.org/abs/2311.11013"><img src="https://img.shields.io/badge/arXiv-EN_RGBD-b31b1b.svg" height=20.5></a> 
     <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Qu_Implicit_Event-RGBD_Neural_SLAM_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-SpaTracker-blue' alt='Project Page"></a> 
     <br/>
     <strong>Likely application in agriculture:</strong> Ag-Robot localization
