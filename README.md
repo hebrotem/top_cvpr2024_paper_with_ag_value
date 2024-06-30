@@ -26,6 +26,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     
   - [Image and video synthesis and generation](#Image-and-video-synthesis-and-generation)
   - [3D from multi-view and sensors](#3DfromMulti)
+
 </details>
 
 ---
@@ -38,8 +39,8 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     Authors: Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu
     <br/>
-  <a href="https://arxiv.org/abs/2403.14602"><img src="https://img.shields.io/badge/arXiv-FreeU-b31b1b.svg" height=20.5></a> 
-  <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/ChenyangSi/FreeU"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://chenyangsi.top/FreeU/"><img src="https://img.shields.io/badge/Project_Page-FreeU-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=eFmkJ_oEW5s"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>   
+    <a href="https://arxiv.org/abs/2403.14602"><img src="https://img.shields.io/badge/arXiv-FreeU-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/ChenyangSi/FreeU"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://chenyangsi.top/FreeU/"><img src="https://img.shields.io/badge/Project_Page-FreeU-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=eFmkJ_oEW5s"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>   
     <br/>
     <strong>Likely application in agriculture:</strong> Data augmentation
 </p>
@@ -51,7 +52,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     Muyang Li, Tianle Cai, Jiaxin Cao, Qinsheng Zhang, Han Cai, Junjie Bai, Yangqing Jia, Kai Li, Song Han
     <br/>
-     <a href="https://arxiv.org/abs/2402.19481"><img src="https://img.shields.io/badge/arXiv-distriFusion-b31b1b.svg" height=20.5></a> <a href="href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_DistriFusion_Distributed_Parallel_Inference_for_High-Resolution_Diffusion_Models_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/mit-han-lab/distrifuser"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://hanlab.mit.edu/projects/distrifusion"><img src="https://img.shields.io/badge/Project_Page-DistriFusion-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=EZX7srDDmW0"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
+    <a href="https://arxiv.org/abs/2402.19481"><img src="https://img.shields.io/badge/arXiv-distriFusion-b31b1b.svg" height=20.5></a> <a href="href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_DistriFusion_Distributed_Parallel_Inference_for_High-Resolution_Diffusion_Models_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/mit-han-lab/distrifuser"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://hanlab.mit.edu/projects/distrifusion"><img src="https://img.shields.io/badge/Project_Page-DistriFusion-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=EZX7srDDmW0"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
     <br/>
     <strong>Likely application in agriculture:</strong> Data augmentation
 </p>
@@ -88,7 +89,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     Yujian Liu, Yang Zhang, Tommi Jaakkola, Shiyu Chang
     <br/>
-     <a href="https://arxiv.org/abs/2312.06038"><img src="https://img.shields.io/badge/arXiv-Correcting-b31b1b.svg" height=20.5></a> 
+    <a href="https://arxiv.org/abs/2312.06038"><img src="https://img.shields.io/badge/arXiv-Correcting-b31b1b.svg" height=20.5></a> 
     <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Correcting_Diffusion_Generation_through_Resampling_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/UCSB-NLP-Chang/diffusion_resampling"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://nicolas-dufour.github.io/cad"><img src="https://img.shields.io/badge/Project_Page-Correcting-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=4Tu-x2-Zcxs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
     <br/>
     <strong>Likely application in agriculture:</strong> Text-conditioned image generation
@@ -235,10 +236,36 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     Yuxi Xiao, Qianqian Wang, Shangzhan Zhang, Nan Xue, Sida Peng, Yujun Shen, Xiaowei Zhou
     <br/>
-    <a href="https://arxiv.org/abs/2304.08069"><img src="https://img.shields.io/badge/arXiv-DETRs_YOLOs-b31b1b.svg" height=20.5></a> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/lyuwenyu/RT-DETR"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://zhao-yian.github.io/RTDETR/"><img src="https://img.shields.io/badge/Project_Page-DETRs_YOLOs-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=UOc0qMSX4Ac"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
+    <a href="https://arxiv.org/abs/2404.04319"><img src="https://img.shields.io/badge/arXiv-SpaTracker-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_SpatialTracker_Tracking_Any_2D_Pixels_in_3D_Space_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/henry123-boy/SpaTracker"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://henry123-boy.github.io/SpaTracker/"><img src="https://img.shields.io/badge/Project_Page-SpaTracker-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=Z6TcrGf97mM"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
     <br/>
-    <strong>Likely application in agriculture:</strong> disease detection
+    <strong>Likely application in agriculture:</strong> trajectory prediction
+</p>
+
+- <p align="left">
+    <a href="https://arxiv.org/abs/2402.08359" title="Learning to Produce Semi-dense Correspondences for Visual Localization">
+    <strong>Learning to Produce Semi-dense Correspondences for Visual Localization</strong>
+    </a>
+    <br/>
+    Khang Truong Giang, Soohwan Song, Sungho Jo
+    <br/>
+       <a href="https://arxiv.org/abs/2402.08359"><img src="https://img.shields.io/badge/arXiv-DeViLoc-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Giang_Learning_to_Produce_Semi-dense_Correspondences_for_Visual_Localization_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/TruongKhang/DeViLoc"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://www.youtube.com/watch?v=1z_fvbr1im4"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
+    <br/>
+    <strong>Likely application in agriculture:</strong> Ag-Robot localization
+</p>
+
+- <p align="left">
+    <a href="https://arxiv.org/abs/2311.11013" title="Implicit Event-RGBD Neural SLAM">
+    <strong>Implicit Event-RGBD Neural SLAM</strong>
+    </a>
+    <br/>
+    Delin Qu, Chi Yan, Dong Wang, Jie Yin, Dan Xu, Bin Zhao, Xuelong Li
+    <br/>
+       <a href="https://arxiv.org/abs/2311.11013"><img src="https://img.shields.io/badge/arXiv-EN_RGBD-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Qu_Implicit_Event-RGBD_Neural_SLAM_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-SpaTracker-blue' alt='Project Page"></a> 
+    <br/>
+    <strong>Likely application in agriculture:</strong> Ag-Robot localization
 </p>
 
 
