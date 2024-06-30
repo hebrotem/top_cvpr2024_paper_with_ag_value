@@ -1,6 +1,6 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=hebrotem.Top_Cvpr2024_Paper_with_Ag_value)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhebrotem%2FTop_Cvpr2024_Paper_with_Ag_value&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- ![Hello badge](https://visitor-badge.laobi.icu/badge?page_id=hebrotem.Top_Cvpr2024_Paper_with_Ag_value)
 
-<!--
 <div align="center">
   <h1 align="center">Top CVPR 2024 Papers with Agriculture Application Values </h1>
   <a href="https://github.com/SkalskiP/top-cvpr-2023-papers">2023</a>
@@ -40,7 +40,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     Authors: Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu
     <br/>
   <a href="https://arxiv.org/abs/2403.14602"><img src="https://img.shields.io/badge/arXiv-freeu-b31b1b.svg" height=20.5></a> 
-  <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/ChenyangSi/FreeU"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://www.youtube.com/watch?v=eFmkJ_oEW5s"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>   
+  <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/ChenyangSi/FreeU"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://chenyangsi.top/FreeU/"><img src="https://img.shields.io/badge/Project_Page-FreeU-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=eFmkJ_oEW5s"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>   
     <br/>
     <strong>Likely application in agriculture:</strong> Data augmentation
 </p>
@@ -52,7 +52,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     Muyang Li, Tianle Cai, Jiaxin Cao, Qinsheng Zhang, Han Cai, Junjie Bai, Yangqing Jia, Kai Li, Song Han
     <br/>
-     <a href="https://arxiv.org/abs/2402.19481"><img src="https://img.shields.io/badge/arXiv-distriFusion-b31b1b.svg" height=20.5></a> <a href="href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_DistriFusion_Distributed_Parallel_Inference_for_High-Resolution_Diffusion_Models_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/mit-han-lab/distrifuser"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a>
+     <a href="https://arxiv.org/abs/2402.19481"><img src="https://img.shields.io/badge/arXiv-distriFusion-b31b1b.svg" height=20.5></a> <a href="href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_DistriFusion_Distributed_Parallel_Inference_for_High-Resolution_Diffusion_Models_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/mit-han-lab/distrifuser"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://hanlab.mit.edu/projects/distrifusion"><img src="https://img.shields.io/badge/Project_Page-DistriFusion-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=EZX7srDDmW0"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
     <br/>
     <strong>Likely application in agriculture:</strong> Data augmentation
 </p>
@@ -64,7 +64,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     Katherine Xu, Lingzhi Zhang, Jianbo Shi
     <br/>
-    <a href="https://arxiv.org/abs/2312.15540"><img src="https://img.shields.io/badge/arXiv-Amodal-b31b1b.svg" height=20.5></a> <a href="href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/k8xu/amodal"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a>
+    <a href="https://arxiv.org/abs/2312.15540"><img src="https://img.shields.io/badge/arXiv-Amodal-b31b1b.svg" height=20.5></a> <a href="href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/k8xu/amodal"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://k8xu.github.io/amodal/"><img src="https://img.shields.io/badge/Project_Page-Amodal-blue' alt='Project Page"></a> <!-- <a href="https://www.youtube.com/watch?v=EZX7srDDmW0"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> -->
     <br/>
     <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
 </p>
@@ -77,7 +77,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     Nicolas Dufour, Victor Besnier, Vicky Kalogeiton, David Picard
     <br/>
     <a href="https://arxiv.org/abs/2405.20324"><img src="https://img.shields.io/badge/arXiv-Don't Drop-b31b1b.svg" height=20.5></a> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Dufour_Dont_Drop_Your_Samples_Coherence-Aware_Training_Benefits_Conditional_Diffusion_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/nicolas-dufour/CAD"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://www.youtube.com/watch?v=4Tu-x2-Zcxs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5>        </a>
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Dufour_Dont_Drop_Your_Samples_Coherence-Aware_Training_Benefits_Conditional_Diffusion_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/nicolas-dufour/CAD"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://nicolas-dufour.github.io/cad"><img src="https://img.shields.io/badge/Project_Page-Don't_Drop-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=4Tu-x2-Zcxs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
     <br/>
     <strong>Likely application in agriculture:</strong> Deep data augmentation
 </p>
@@ -90,7 +90,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     Yujian Liu, Yang Zhang, Tommi Jaakkola, Shiyu Chang
     <br/>
      <a href="https://arxiv.org/abs/2312.06038"><img src="https://img.shields.io/badge/arXiv-Correcting-b31b1b.svg" height=20.5></a> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Correcting_Diffusion_Generation_through_Resampling_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/UCSB-NLP-Chang/diffusion_resampling"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a>
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Correcting_Diffusion_Generation_through_Resampling_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/UCSB-NLP-Chang/diffusion_resampling"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://nicolas-dufour.github.io/cad"><img src="https://img.shields.io/badge/Project_Page-Don't_Drop-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=4Tu-x2-Zcxs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
     <br/>
     <strong>Likely application in agriculture:</strong> Text-conditioned image generation
 </p>
@@ -108,7 +108,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <strong>Likely application in agriculture:</strong> Text-to-Image
 </p>
 
-- <p align="left">
+<!--- - <p align="left">
     <a href="https://arxiv.org/abs/2312.02149" title="Don't Drop Your Samples! Coherence-Aware Training Benefits Conditional Diffusion">
        <strong>Generative Powers of Ten</strong>
     </a>
@@ -116,35 +116,48 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     Xiaojuan Wang, Janne Kontkanen, Brian Curless, Steve Seitz, Ira Kemelmacher, Ben Mildenhall, Pratul Srinivasan, Dor Verbin, Aleksander Holynski
     <br/>
     <a href="https://arxiv.org/abs/2312.02149"><img src="https://img.shields.io/badge/arXiv-Gen Ten-b31b1b.svg" height=20.5></a> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Generative_Powers_of_Ten_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href='powers-of-ten.github.io/'><img src="https://img.shields.io/badge/Project_Page-Generative_power-blue' alt='Project Page"></a>  <a href="https://www.youtube.com/watch?v=0fKBhvDjuy0"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Generative_Powers_of_Ten_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://powers-of-10.github.io/"><img src="https://img.shields.io/badge/Project_Page-Generative-blue' alt='Project Page"></a>  <a href="https://www.youtube.com/watch?v=0fKBhvDjuy0"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
     <br/>
     <strong>Likely application in agriculture:</strong> Text-to-image
 </p>
 
 - <p align="left">
-    <a href="https://arxiv.org/abs/2405.20324" title="Don't Drop Your Samples! Coherence-Aware Training Benefits Conditional Diffusion">
-       <strong>Don't Drop Your Samples! Coherence-Aware Training Benefits Conditional Diffusion</strong>
+    <a href="https://arxiv.org/abs/2406.07480" title="Image Neural Field Diffusion Models">
+       <strong>Image Neural Field Diffusion Models</strong>
     </a>
     <br/>
-    Nicolas Dufour, Victor Besnier, Vicky Kalogeiton, David Picard
+    Yinbo Chen, Oliver Wang, Richard Zhang, Eli Shechtman, Xiaolong Wang, Michael Gharbi
     <br/>
-    <a href="https://arxiv.org/abs/2405.20324"><img src="https://img.shields.io/badge/arXiv-Don't Drop-b31b1b.svg" height=20.5></a> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Dufour_Dont_Drop_Your_Samples_Coherence-Aware_Training_Benefits_Conditional_Diffusion_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/nicolas-dufour/CAD"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://www.youtube.com/watch?v=4Tu-x2-Zcxs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5>        </a>
+    <a href="https://arxiv.org/abs/2406.07480"><img src="https://img.shields.io/badge/arXiv-Image Neural-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Image_Neural_Field_Diffusion_Models_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://yinboc.github.io/infd/"><img src="https://img.shields.io/badge/Project_Page-Generative-blue' alt='Project Page"></a>
     <br/>
     <strong>Likely application in agriculture:</strong> Deep data augmentation
 </p>
-
+-->
 - <p align="left">
-    <a href="https://arxiv.org/abs/2405.20324" title="Don't Drop Your Samples! Coherence-Aware Training Benefits Conditional Diffusion">
-       <strong>Don't Drop Your Samples! Coherence-Aware Training Benefits Conditional Diffusion</strong>
+    <a href="https://arxiv.org/abs/2403.01852" title="PLACE: Adaptive Layout-Semantic Fusion for Semantic Image Synthesis">
+       <strong>PLACE: Adaptive Layout-Semantic Fusion for Semantic Image Synthesis</strong>
     </a>
     <br/>
-    Nicolas Dufour, Victor Besnier, Vicky Kalogeiton, David Picard
+    Zhengyao Lv, Yuxiang Wei, Wangmeng Zuo2, Kwan-Yee K. Wong
     <br/>
-    <a href="https://arxiv.org/abs/2405.20324"><img src="https://img.shields.io/badge/arXiv-Don't Drop-b31b1b.svg" height=20.5></a> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Dufour_Dont_Drop_Your_Samples_Coherence-Aware_Training_Benefits_Conditional_Diffusion_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/nicolas-dufour/CAD"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://www.youtube.com/watch?v=4Tu-x2-Zcxs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5>        </a>
+    <a href="https://arxiv.org/abs/2403.01852"><img src="https://img.shields.io/badge/arXiv-Don't Drop-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Lv_PLACE_Adaptive_Layout-Semantic_Fusion_for_Semantic_Image_Synthesis_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/cszy98/PLACE"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://cszy98.github.io/PLACE/"><img src="https://img.shields.io/badge/Project_Page-Generative-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=47mMAmclPWw"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
     <br/>
-    <strong>Likely application in agriculture:</strong> Deep data augmentation
+    <strong>Likely application in agriculture:</strong> Deep Segmatic image generation
+</p>
+
+- <p align="left">
+    <a href="https://arxiv.org/abs/2403.01852" title="PLACE: Adaptive Layout-Semantic Fusion for Semantic Image Synthesis">
+       <strong>PLACE: Adaptive Layout-Semantic Fusion for Semantic Image Synthesis</strong>
+    </a>
+    <br/>
+    Zhengyao Lv, Yuxiang Wei, Wangmeng Zuo2, Kwan-Yee K. Wong
+    <br/>
+    <a href="https://arxiv.org/abs/2403.01852"><img src="https://img.shields.io/badge/arXiv-Don't Drop-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Lv_PLACE_Adaptive_Layout-Semantic_Fusion_for_Semantic_Image_Synthesis_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/cszy98/PLACE"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://cszy98.github.io/PLACE/"><img src="https://img.shields.io/badge/Project_Page-Generative-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=47mMAmclPWw"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
+    <br/>
+    <strong>Likely application in agriculture:</strong> Deep Segmatic image generation
 </p>
 
 
