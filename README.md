@@ -216,14 +216,14 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
 </p>
 
 - <p align="left">
-    <a href="https://arxiv.org/abs/2312.01220" title="DETRs Beat YOLOs on Real-time Object Detection">
+    <a href="https://arxiv.org/abs/2312.01220" title="Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation">
        <strong>Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation</strong>
     </a>
     <br/>
     Zhipeng Du, Miaojing Shi, Jiankang Deng
     <br/>
-    <a href="https://arxiv.org/abs/2304.08069"><img src="https://img.shields.io/badge/arXiv-DETRs_YOLOs-b31b1b.svg" height=20.5></a> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/lyuwenyu/RT-DETR"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://zhao-yian.github.io/RTDETR/"><img src="https://img.shields.io/badge/Project_Page-DETRs_YOLOs-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=UOc0qMSX4Ac"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
+    <a href="https://arxiv.org/abs/2312.01220"><img src="https://img.shields.io/badge/arXiv-DETRs_YOLOs-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Du_Boosting_Object_Detection_with_Zero-Shot_Day-Night_Domain_Adaptation_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/ZPDu/DAI-Net"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://zpdu.github.io/DAINet_page/"><img src="https://img.shields.io/badge/Project_Page-Boosting-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=X44b2lInZzk"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
     <br/>
     <strong>Likely application in agriculture:</strong> disease detection
 </p>
