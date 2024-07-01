@@ -300,7 +300,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
 
-### document analysis and understanding
+### Document analysis and understanding
 
 <p align="left">
     <a href="https://arxiv.org/abs/2405.04408" title="DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks">
