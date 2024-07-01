@@ -285,7 +285,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
 <a name="Deeplearning"></a>
 ### Deep learning architectures and techniques
 
-<p align="left">
+- <p align="left">
     <a href="https://arxiv.org/pdf/2311.06242" title="Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks">
         <strong>Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks</strong>
     </a>
@@ -302,7 +302,7 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
 
 ### Document analysis and understanding
 
-<p align="left">
+- <p align="left">
     <a href="https://arxiv.org/abs/2405.04408" title="DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks">
         <strong>DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks</strong>
     </a>
@@ -311,52 +311,44 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     [<a href="https://arxiv.org/abs/2405.04408">paper</a>] [<a href="https://github.com/ZZZHANG-jx/DocRes">code</a>]  [<a href="https://huggingface.co/spaces/qubvel-hf/documents-restoration">demo</a>] 
     <br/>
-    <strong>Topic:</strong> Document analysis and understanding
+    <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #101
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
 
-### efficient and scalable vision
+### Efficient and scalable vision
 
-<p align="left">
+- <p align="left">
     <a href="https://arxiv.org/abs/2312.00863" title="EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything">
         <strong>🔥 EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything</strong>
     </a>
     <br/>
     Yunyang Xiong, Bala Varadarajan, Lemeng Wu, Xiaoyu Xiang, Fanyi Xiao, Chenchen Zhu, Xiaoliang Dai, Dilin Wang, Fei Sun, Forrest Iandola, Raghuraman Krishnamoorthi, Vikas Chandra
     <br/>
-    [<a href="https://arxiv.org/abs/2312.00863">paper</a>] [<a href="https://github.com/yformer/EfficientSAM">code</a>]  [<a href="https://huggingface.co/spaces/SkalskiP/EfficientSAM">demo</a>] 
+    <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Efficient and scalable vision
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #144
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
 
 
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30022.png?t=1718402790.003817" title="MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30022.png?t=1718402790.003817" alt="MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://arxiv.org/abs/2311.17049" title="MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training">
         <strong>MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training</strong>
     </a>
     <br/>
     Pavan Kumar Anasosalu Vasu, Hadi Pouransari, Fartash Faghri, Raviteja Vemulapalli, Oncel Tuzel
     <br/>
-    [<a href="https://arxiv.org/abs/2311.17049">paper</a>] [<a href="https://github.com/apple/ml-mobileclip">code</a>]  [<a href="https://huggingface.co/spaces/Xenova/webgpu-mobileclip">demo</a>] 
+    <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Efficient and scalable vision
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #130
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
-### explainable computer vision
+### Explainable computer vision
 
-<p align="left">
+- <p align="left">
     <a href="https://arxiv.org/abs/2312.02974" title="Describing Differences in Image Sets with Natural Language">
         <strong>🔥 Describing Differences in Image Sets with Natural Language</strong>
     </a>
@@ -365,55 +357,15 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     [<a href="https://arxiv.org/abs/2312.02974">paper</a>] [<a href="https://github.com/Understanding-Visual-Datasets/VisDiff">code</a>]   
     <br/>
-    <strong>Topic:</strong> Explainable computer vision
+    <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Session:</strong> Fri 21 Jun 8 p.m. EDT — 9:30 p.m. EDT #115
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
 
-### image and video synthesis and generation
+### Low-level vision
 
-<p align="left">
-    <a href="https://arxiv.org/abs/2311.16973" title="DemoFusion: Democratising High-Resolution Image Generation With No $$$">
-        <strong>DemoFusion: Democratising High-Resolution Image Generation With No $$$</strong>
-    </a>
-    <br/>
-    Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma
-    <br/>
-    [<a href="https://arxiv.org/abs/2311.16973">paper</a>] [<a href="https://github.com/PRIS-CV/DemoFusion">code</a>]  [<a href="https://huggingface.co/spaces/radames/Enhance-This-DemoFusion-SDXL">demo</a>] [<a href="https://colab.research.google.com/github/camenduru/DemoFusion-colab/blob/main/DemoFusion_colab.ipynb">colab</a>]
-    <br/>
-    <strong>Topic:</strong> Image and video synthesis and generation
-    <br/>
-    <strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #132
-</p>
-<br/>
-
-
-<p align="left">
-    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/b0833f6b-6924-4f28-b409-ae85aaaa4dd6" title="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/2a0219f5-9f1e-47e1-a968-d4d98154feb2" alt="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing" width="400px" align="left" />
-    </a>
-    <a href="https://arxiv.org/abs/2306.14435" title="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing">
-        <strong>🔥 DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing</strong>
-    </a>
-    <br/>
-    Yujun Shi, Chuhui Xue, Jun Hao Liew, Jiachun Pan, Hanshu Yan, Wenqing Zhang, Vincent Y. F. Tan, Song Bai
-    <br/>
-    [<a href="https://arxiv.org/abs/2306.14435">paper</a>] [<a href="https://github.com/Yujun-Shi/DragDiffusion">code</a>] [<a href="https://youtu.be/rysOFTpDBhc">video</a>]  
-    <br/>
-    <strong>Topic:</strong> Image and video synthesis and generation
-    <br/>
-    <strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #392
-</p>
-<br/>
-<br/>
-
-### low-level vision
-
-<p align="left">
-    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/8eb6b4f0-4ae6-4615-9921-f73fa2aa3766" title="XFeat: Accelerated Features for Lightweight Image Matching">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/50b6d16f-c2d8-49a4-8c15-a31d6f9a3c44" alt="XFeat: Accelerated Features for Lightweight Image Matching" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://arxiv.org/abs/2404.19174" title="XFeat: Accelerated Features for Lightweight Image Matching">
         <strong>XFeat: Accelerated Features for Lightweight Image Matching</strong>
     </a>
@@ -422,96 +374,71 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     [<a href="https://arxiv.org/abs/2404.19174">paper</a>] [<a href="https://github.com/verlab/accelerated_features">code</a>] [<a href="https://youtu.be/RamC70IkZuI">video</a>] [<a href="https://huggingface.co/spaces/qubvel-hf/xfeat">demo</a>] [<a href="https://colab.research.google.com/github/verlab/accelerated_features/blob/main/notebooks/xfeat_matching.ipynb">colab</a>]
     <br/>
-    <strong>Topic:</strong> Low-level vision
+    <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #245
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
 
-<p align="left">
-    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/038bef8f-a6df-440d-9ebc-b58f69beb338" title="Robust Image Denoising through Adversarial Frequency Mixup">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/03cc753c-f875-479e-bca2-e0375e9929a6" alt="Robust Image Denoising through Adversarial Frequency Mixup" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Ryou_Robust_Image_Denoising_through_Adversarial_Frequency_Mixup_CVPR_2024_paper.html" title="Robust Image Denoising through Adversarial Frequency Mixup">
         <strong>Robust Image Denoising through Adversarial Frequency Mixup</strong>
     </a>
     <br/>
     Donghun Ryou, Inju Ha, Hyewon Yoo, Dongwan Kim, Bohyung Han
     <br/>
-    [<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Ryou_Robust_Image_Denoising_through_Adversarial_Frequency_Mixup_CVPR_2024_paper.html">paper</a>] [<a href="https://github.com/dhryougit/AFM">code</a>] [<a href="https://youtu.be/zQ0pwFSk7uo">video</a>]  
+   <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Low-level vision
-    <br/>
-    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #250
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
-### multi-modal learning
+### Multi-modal learning
 
-<p align="left">
+- <p align="left">
     <a href="https://arxiv.org/abs/2310.03744" title="Improved Baselines with Visual Instruction Tuning">
         <strong>🔥 Improved Baselines with Visual Instruction Tuning</strong>
     </a>
     <br/>
     Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee
     <br/>
-    [<a href="https://arxiv.org/abs/2310.03744">paper</a>] [<a href="https://github.com/LLaVA-VL/LLaVA-NeXT">code</a>]   
+  <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Multi-modal learning
-    <br/>
-    <strong>Session:</strong> Fri 21 Jun 8 p.m. EDT — 9:30 p.m. EDT #209
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
 
-### recognition: categorization, detection, retrieval
+### Recognition: categorization, detection, retrieval
 
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31301.png?t=1717420504.9897285" title="DETRs Beat YOLOs on Real-time Object Detection">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/3732bfdd-4be4-45cd-8353-e056094f9fec" alt="DETRs Beat YOLOs on Real-time Object Detection" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://arxiv.org/abs/2304.08069" title="DETRs Beat YOLOs on Real-time Object Detection">
         <strong>DETRs Beat YOLOs on Real-time Object Detection</strong>
     </a>
     <br/>
     Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen
     <br/>
-    [<a href="https://arxiv.org/abs/2304.08069">paper</a>] [<a href="https://github.com/lyuwenyu/RT-DETR">code</a>] [<a href="https://www.youtube.com/watch?v=UOc0qMSX4Ac">video</a>]  
+    <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Recognition: Categorization, detection, retrieval
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #229
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
 
-<p align="left">
-    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/f9023a28-aca5-4965-a194-984c62348dc0" title="YOLO-World: Real-Time Open-Vocabulary Object Detection">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/b9f0bb1e-91d4-4ea3-83c6-ee0817afc1bf" alt="YOLO-World: Real-Time Open-Vocabulary Object Detection" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://arxiv.org/abs/2401.17270" title="YOLO-World: Real-Time Open-Vocabulary Object Detection">
         <strong>YOLO-World: Real-Time Open-Vocabulary Object Detection</strong>
     </a>
     <br/>
     Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan
     <br/>
-    [<a href="https://arxiv.org/abs/2401.17270">paper</a>] [<a href="https://github.com/AILab-CVC/YOLO-World">code</a>] [<a href="https://youtu.be/X7gKBGVz4vs">video</a>] [<a href="https://huggingface.co/spaces/SkalskiP/YOLO-World">demo</a>] [<a href="https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-yolo-world.ipynb">colab</a>]
+  <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Recognition: Categorization, detection, retrieval
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #223
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
-
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31732.png?t=1717298372.5822952" title="Object Recognition as Next Token Prediction">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31732.png?t=1717298372.5822952" alt="Object Recognition as Next Token Prediction" width="400px" align="left" />
-    </a>
     <a href="https://arxiv.org/abs/2312.02142" title="Object Recognition as Next Token Prediction">
         <strong>🔥 Object Recognition as Next Token Prediction</strong>
     </a>
@@ -520,111 +447,84 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
     <br/>
     [<a href="https://arxiv.org/abs/2312.02142">paper</a>] [<a href="https://github.com/kaiyuyue/nxtp">code</a>] [<a href="https://youtu.be/xeI8dZIpoco">video</a>]  [<a href="https://colab.research.google.com/drive/1pJX37LP5xGLDzD3H7ztTmpq1RrIBeWX3?usp=sharing">colab</a>]
     <br/>
-    <strong>Topic:</strong> Recognition: Categorization, detection, retrieval
+    <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #199
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
-### segmentation, grouping and shape analysis
+### Segmentation, grouping and shape analysis
 
-<p align="left">
-    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/62d34981-73d6-49b2-8058-46ec99bac94d" title="RobustSAM: Segment Anything Robustly on Degraded Images">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/ee15d3bc-c391-44f9-b35b-24af714ef119" alt="RobustSAM: Segment Anything Robustly on Degraded Images" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chen_RobustSAM_Segment_Anything_Robustly_on_Degraded_Images_CVPR_2024_paper.html" title="RobustSAM: Segment Anything Robustly on Degraded Images">
         <strong>🔥 RobustSAM: Segment Anything Robustly on Degraded Images</strong>
     </a>
     <br/>
     Wei-Ting Chen, Yu-Jiet Vong, Sy-Yen Kuo, Sizhou Ma, Jian Wang
     <br/>
-    [<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chen_RobustSAM_Segment_Anything_Robustly_on_Degraded_Images_CVPR_2024_paper.html">paper</a>]  [<a href="https://www.youtube.com/watch?v=Awukqkbs6zM">video</a>]  
+    <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Segmentation, grouping and shape analysis
-    <br/>
-    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #378
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
 
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30253.png?t=1716781257.513028" title="Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/0c43b789-f2e8-4ff9-ae46-b5a87de1b921" alt="Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Frozen_CLIP_A_Strong_Backbone_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.html" title="Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation">
         <strong>🔥 Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation</strong>
     </a>
     <br/>
     Bingfeng Zhang, Siyue Yu, Yunchao Wei, Yao Zhao, Jimin Xiao
     <br/>
-    [<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Frozen_CLIP_A_Strong_Backbone_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.html">paper</a>] [<a href="https://github.com/zbf1991/WeCLIP">code</a>] [<a href="https://youtu.be/Lh489nTm_M0">video</a>]  
+   <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Segmentation, grouping and shape analysis
-    <br/>
-    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #351
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
 
-<p align="left">
-    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/2f2bf794-3981-48c8-992d-04dd32ee9ced" title="Semantic-aware SAM for Point-Prompted Instance Segmentation">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/f1ed2755-1df1-45fe-810b-5fc98b4b52e1" alt="Semantic-aware SAM for Point-Prompted Instance Segmentation" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://arxiv.org/abs/2312.15895" title="Semantic-aware SAM for Point-Prompted Instance Segmentation">
         <strong>🔥 Semantic-aware SAM for Point-Prompted Instance Segmentation</strong>
     </a>
     <br/>
     Zhaoyang Wei, Pengfei Chen, Xuehui Yu, Guorong Li, Jianbin Jiao, Zhenjun Han
     <br/>
-    [<a href="https://arxiv.org/abs/2312.15895">paper</a>] [<a href="https://github.com/zhaoyangwei123/SAPNet">code</a>] [<a href="https://youtu.be/42-tJFmT7Ao">video</a>]  
+    <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Segmentation, grouping and shape analysis
-    <br/>
-    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #331
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
 
-<p align="left">
+- <p align="left">
     <a href="https://arxiv.org/abs/2403.15789" title="In-Context Matting">
-        <strong>🔥 In-Context Matting</strong>
+        <strong>In-Context Matting</strong>
     </a>
     <br/>
     He Guo, Zixuan Ye, Zhiguo Cao, Hao Lu
     <br/>
-    [<a href="https://arxiv.org/abs/2403.15789">paper</a>] [<a href="https://github.com/tiny-smart/in-context-matting">code</a>]   
+    <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Segmentation, grouping and shape analysis
-    <br/>
-    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #343
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
 
 
-<p align="left">
-    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/bfe79038-706d-491b-ac99-083f421dc5ec" title="General Object Foundation Model for Images and Videos at Scale">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/4f0ed38d-28aa-4766-b290-940cbc6711d6" alt="General Object Foundation Model for Images and Videos at Scale" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://arxiv.org/abs/2312.09158" title="General Object Foundation Model for Images and Videos at Scale">
-        <strong>🔥 General Object Foundation Model for Images and Videos at Scale</strong>
+        <strong>General Object Foundation Model for Images and Videos at Scale</strong>
     </a>
     <br/>
     Junfeng Wu, Yi Jiang, Qihao Liu, Zehuan Yuan, Xiang Bai, Song Bai
     <br/>
-    [<a href="https://arxiv.org/abs/2312.09158">paper</a>] [<a href="https://github.com/FoundationVision/GLEE">code</a>] [<a href="https://www.youtube.com/watch?v=PSVhfTPx0GQ">video</a>]  
+     <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Segmentation, grouping and shape analysis
-    <br/>
-    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #350
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
-### self-supervised or unsupervised representation learning
+### Self-supervised or unsupervised representation learning
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30014.png?t=1717339970.9614518" title="InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks">
@@ -645,143 +545,104 @@ If the paper you seek isn't in my curated list, feel free to check out the full 
 <br/>
 <br/>
 
-### video: low-level analysis, motion, and tracking
+### Video: low-level analysis, motion, and tracking
 
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29590.png?t=1717456006.3308516" title="Matching Anything by Segmenting Anything">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/bb451f47-ba3e-4e34-a7c0-3410b64d9339" alt="Matching Anything by Segmenting Anything" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://arxiv.org/abs/2406.04221" title="Matching Anything by Segmenting Anything">
         <strong>🔥 Matching Anything by Segmenting Anything</strong>
     </a>
     <br/>
     Siyuan Li, Lei Ke, Martin Danelljan, Luigi Piccinelli, Mattia Segu, Luc Van Gool, Fisher Yu
     <br/>
-    [<a href="https://arxiv.org/abs/2406.04221">paper</a>] [<a href="https://github.com/siyuanliii/masa">code</a>] [<a href="https://youtu.be/KDQVujKAWFQ">video</a>]  
+  <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Video: Low-level analysis, motion, and tracking
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #421
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
-
-<p align="left">
-    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/9711186c-b05b-472d-b095-d98dbe386171" title="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/18caf2db-5dab-4251-9eeb-e2397c67eb3f" alt="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://arxiv.org/abs/2403.02075" title="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction">
         <strong>DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction</strong>
     </a>
     <br/>
     Weiyi Lv, Yuhang Huang, Ning Zhang, Ruei-Sung Lin, Mei Han, Dan Zeng
     <br/>
-    [<a href="https://arxiv.org/abs/2403.02075">paper</a>] [<a href="https://github.com/Kroery/DiffMOT">code</a>]   
+     <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Video: Low-level analysis, motion, and tracking
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #455
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
-### vision, language, and reasoning
+### Vision, language, and reasoning
 
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31492.png?t=1717327133.6073072" title="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/4480d88a-7f8f-48c2-bcb0-bde3b694dfd8" alt="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://arxiv.org/abs/2312.03818" title="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want">
         <strong>Alpha-CLIP: A CLIP Model Focusing on Wherever You Want</strong>
     </a>
     <br/>
     Zeyi Sun, Ye Fang, Tong Wu, Pan Zhang, Yuhang Zang, Shu Kong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang
     <br/>
-    [<a href="https://arxiv.org/abs/2312.03818">paper</a>] [<a href="https://github.com/SunzeY/AlphaCLIP">code</a>] [<a href="https://youtu.be/QCEIKPZpZz0">video</a>] [<a href="https://huggingface.co/spaces/Zery/Alpha-CLIP_LLaVA-1.5">demo</a>] 
+    <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Vision, language, and reasoning
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #327
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
 
-<p align="left">
+- <p align="left">
     <a href="https://arxiv.org/abs/2401.06209" title="Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs">
         <strong>🔥 Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs</strong>
     </a>
     <br/>
     Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie
     <br/>
-    [<a href="https://arxiv.org/abs/2401.06209">paper</a>] [<a href="https://github.com/tsb0601/MMVP">code</a>]   
+     <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Vision, language, and reasoning
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #390
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
 
 
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30109.png?t=1717509456.89997" title="LISA: Reasoning Segmentation via Large Language Model">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/fc2699d9-7bd2-4c3a-8e6c-4961505cc802" alt="LISA: Reasoning Segmentation via Large Language Model" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://arxiv.org/abs/2308.00692" title="LISA: Reasoning Segmentation via Large Language Model">
         <strong>🔥 LISA: Reasoning Segmentation via Large Language Model</strong>
     </a>
     <br/>
     Xin Lai, Zhuotao Tian, Yukang Chen, Yanwei Li, Yuhui Yuan, Shu Liu, Jiaya Jia
     <br/>
-    [<a href="https://arxiv.org/abs/2308.00692">paper</a>] [<a href="https://github.com/dvlab-research/LISA">code</a>]  [<a href="http://103.170.5.190:7870/">demo</a>] 
+   <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Vision, language, and reasoning
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #413
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
 
-<p align="left">
-    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/53e03a08-4dd9-451a-975e-e3654fa5bc71" title="ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/6d1536ae-3f96-49d9-a05f-9648b925cdb5" alt="ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://arxiv.org/abs/2312.00784" title="ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts">
         <strong>ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts</strong>
     </a>
     <br/>
     Mu Cai, Haotian Liu, Dennis Park, Siva Karthik Mustikovela, Gregory P. Meyer, Yuning Chai, Yong Jae Lee
     <br/>
-    [<a href="https://arxiv.org/abs/2312.00784">paper</a>] [<a href="https://github.com/WisconsinAIVision/ViP-LLaVA">code</a>] [<a href="https://youtu.be/j_l1bRQouzc">video</a>] [<a href="https://pages.cs.wisc.edu/~mucai/vip-llava.html">demo</a>] 
+  <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Vision, language, and reasoning
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #317
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
 
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31040.png?t=1718300473.5736258" title="MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31040.png?t=1718300473.5736258" alt="MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI" width="400px" align="left" />
-    </a>
+- <p align="left">
     <a href="https://arxiv.org/abs/2311.16502" title="MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI">
         <strong>🔥 MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI</strong>
     </a>
     <br/>
     Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen
     <br/>
-    [<a href="https://arxiv.org/abs/2311.16502">paper</a>]    
+     <a href="https://arxiv.org/pdf/2311.06242"><img src="https://img.shields.io/badge/arXiv-Florence2-b31b1b.svg" height=20.5></a> 
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://delinqu.github.io/EN-SLAM/"><img src="https://img.shields.io/badge/Project_Page-ENSLAM-blue' alt='Project Page"></a> <a href="https://youtu.be/cOlyA00K1ec"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> 
     <br/>
-    <strong>Topic:</strong> Vision, language, and reasoning
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #382
+    <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
-<br/>
-<br/>
 
 <!--- AUTOGENERATED_PAPERS_LIST -->
 
