@@ -26,6 +26,7 @@
   - [Image and video synthesis and generation](#Image-and-video-synthesis-and-generation)
   - [3D from multi-view and sensors](#3DfromMulti)
   - [Deep learning architectures and techniques](#Deeplearning)
+  - [Document analysis and understanding](Documentanalysis)
 
 </details>
 
@@ -40,8 +41,10 @@
     Authors: Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu
     <br/>
     <a href="https://arxiv.org/abs/2403.14602"><img src="https://img.shields.io/badge/arXiv-FreeU-b31b1b.svg" height=20.5></a> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/ChenyangSi/FreeU"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://chenyangsi.top/FreeU/"><img src="https://img.shields.io/badge/Project_Page-FreeU-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=eFmkJ_oEW5s"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>   
-    <br/>
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/ChenyangSi/FreeU"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://chenyangsi.top/FreeU/"><img src="https://img.shields.io/badge/Project_Page-FreeU-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=eFmkJ_oEW5s"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
+  <details> <summary><strong>Abstract</strong></summary>
+      In this paper, we uncover the untapped potential of diffusion U-Net, which serves as a "free lunch" that substantially improves the generation quality on the fly. We initially investigate the key contributions of the U-Net architecture to the denoising process and identify that its main backbone primarily contributes to denoising, whereas its skip connections mainly introduce high-frequency features into the decoder module, causing the network to overlook the backbone semantics. Capitalizing on this discovery, we propose a simple yet effective method-termed "FreeU" - that enhances generation quality without additional training or finetuning. Our key insight is to strategically re-weight the contributions sourced from the U-Net's skip connections and backbone feature maps, to leverage the strengths of both components of the U-Net architecture. Promising results on image and video generation tasks demonstrate that our FreeU can be readily integrated to existing diffusion models, e.g., Stable Diffusion, DreamBooth, ModelScope, Rerender and ReVersion, to improve the generation quality with only a few lines of code. All you need is to adjust two scaling factors during inference. 
+    </details>
     <strong>Likely application in agriculture:</strong> Data augmentation
 </p>
 
@@ -53,7 +56,9 @@
     Muyang Li, Tianle Cai, Jiaxin Cao, Qinsheng Zhang, Han Cai, Junjie Bai, Yangqing Jia, Kai Li, Song Han
     <br/>
     <a href="https://arxiv.org/abs/2402.19481"><img src="https://img.shields.io/badge/arXiv-distriFusion-b31b1b.svg" height=20.5></a> <a href="href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_DistriFusion_Distributed_Parallel_Inference_for_High-Resolution_Diffusion_Models_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/mit-han-lab/distrifuser"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://hanlab.mit.edu/projects/distrifusion"><img src="https://img.shields.io/badge/Project_Page-DistriFusion-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=EZX7srDDmW0"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
-    <br/>
+    <details> <summary><strong>Abstract</strong></summary>
+      Diffusion models have achieved great success in synthesizing high-quality images. However, generating high-resolution images with diffusion models is still challenging due to the enormous computational costs, resulting in a prohibitive latency for interactive applications. In this paper, we propose DistriFusion to tackle this problem by leveraging parallelism across multiple GPUs. Our method splits the model input into multiple patches and assigns each patch to a GPU. However, naively implementing such an algorithm breaks the interaction between patches and loses fidelity, while incorporating such an interaction will incur tremendous communication overhead. To overcome this dilemma, we observe the high similarity between the input from adjacent diffusion steps and propose displaced patch parallelism, which takes advantage of the sequential nature of the diffusion process by reusing the pre-computed feature maps from the previous timestep to provide context for the current step. Therefore, our method supports asynchronous communication, which can be pipelined by computation. Extensive experiments show that our method can be applied to recent Stable Diffusion XL with no quality degradation and achieve up to a 6.1× speedup on eight NVIDIA A100s compared to one.
+    </details>
     <strong>Likely application in agriculture:</strong> Data augmentation
 </p>
 
@@ -65,7 +70,9 @@
     Katherine Xu, Lingzhi Zhang, Jianbo Shi
     <br/>
     <a href="https://arxiv.org/abs/2312.15540"><img src="https://img.shields.io/badge/arXiv-Amodal-b31b1b.svg" height=20.5></a> <a href="href="https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Amodal_Completion_via_Progressive_Mixed_Context_Diffusion_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/k8xu/amodal"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://k8xu.github.io/amodal/"><img src="https://img.shields.io/badge/Project_Page-Amodal-blue' alt='Project Page"></a> <!-- <a href="https://www.youtube.com/watch?v=EZX7srDDmW0"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a> -->
-    <br/>
+    <details> <summary><strong>Abstract</strong></summary>
+      Our brain can effortlessly recognize objects even when partially hidden from view. Seeing the visible of the hidden is called amodal completion; however, this task remains a challenge for generative AI despite rapid progress. We propose to sidestep many of the difficulties of existing approaches, which typically involve a two-step process of predicting amodal masks and then generating pixels. Our method involves thinking outside the box, literally! We go outside the object bounding box to use its context to guide a pre-trained diffusion inpainting model, and then progressively grow the occluded object and trim the extra background. We overcome two technical challenges: 1) how to be free of unwanted co-occurrence bias, which tends to regenerate similar occluders, and 2) how to judge if an amodal completion has succeeded. Our amodal completion method exhibits improved photorealistic completion results compared to existing approaches in numerous successful completion cases. And the best part? It doesn't require any special training or fine-tuning of models.
+    </details>
     <strong>Likely application in agriculture:</strong> Occlusion-aware amodal Completion
 </p>
 
@@ -78,7 +85,9 @@
     <br/>
     <a href="https://arxiv.org/abs/2405.20324"><img src="https://img.shields.io/badge/arXiv-Don't Drop-b31b1b.svg" height=20.5></a> 
     <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Dufour_Dont_Drop_Your_Samples_Coherence-Aware_Training_Benefits_Conditional_Diffusion_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/nicolas-dufour/CAD"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://nicolas-dufour.github.io/cad"><img src="https://img.shields.io/badge/Project_Page-Don't_Drop-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=4Tu-x2-Zcxs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
-    <br/>
+    <details> <summary><strong>Abstract</strong></summary>
+      Conditional diffusion models are powerful generative models that can leverage various types of conditional information, such as class labels, segmentation masks, or text captions. However, in many real-world scenarios, conditional information may be noisy or unreliable due to human annotation errors or weak alignment. In this paper, we propose the Coherence-Aware Diffusion (CAD), a novel method that integrates coherence in conditional information into diffusion models, allowing them to learn from noisy annotations without discarding data. We assume that each data point has an associated coherence score that reflects the quality of the conditional information. We then condition the diffusion model on both the conditional information and the coherence score. In this way, the model learns to ignore or discount the conditioning when the coherence is low. We show that CAD is theoretically sound and empirically effective on various conditional generation tasks. Moreover, we show that leveraging coherence generates realistic and diverse samples that respect conditional information better than models trained on cleaned datasets where samples with low coherence have been discarded.
+    </details>
     <strong>Likely application in agriculture:</strong> Deep data augmentation
 </p>
 
@@ -91,7 +100,9 @@
     <br/>
     <a href="https://arxiv.org/abs/2312.06038"><img src="https://img.shields.io/badge/arXiv-Correcting-b31b1b.svg" height=20.5></a> 
     <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Correcting_Diffusion_Generation_through_Resampling_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/UCSB-NLP-Chang/diffusion_resampling"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href="https://nicolas-dufour.github.io/cad"><img src="https://img.shields.io/badge/Project_Page-Correcting-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=4Tu-x2-Zcxs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
-    <br/>
+    <details> <summary><strong>Abstract</strong></summary>
+      Despite diffusion models' superior capabilities in modeling complex distributions, there are still non-trivial distributional discrepancies between generated and ground-truth images, which has resulted in several notable problems in image generation, including missing object errors in text-to-image generation and low image quality. Existing methods that attempt to address these problems mostly do not tend to address the fundamental cause behind these problems, which is the distributional discrepancies, and hence achieve sub-optimal results. In this paper, we propose a particle filtering framework that can effectively address both problems by explicitly reducing the distributional discrepancies. Specifically, our method relies on a set of external guidance, including a small set of real images and a pre-trained object detector, to gauge the distribution gap, and then design the resampling weight accordingly to correct the gap. Experiments show that our methods can effectively correct missing object errors and improve image quality in various image generation tasks. Notably, our method outperforms the existing strongest baseline by 5% in object occurrence and 1.0 in FID on MS-COCO.
+    </details>
     <strong>Likely application in agriculture:</strong> Text-conditioned image generation
 </p>
 
@@ -104,7 +115,9 @@
     <br/>
     <a href="https://arxiv.org/abs/2311.17002"><img src="https://img.shields.io/badge/arXiv-Ranni-b31b1b.svg" height=20.5></a> 
     <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Feng_Ranni_Taming_Text-to-Image_Diffusion_for_Accurate_Instruction_Following_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://github.com/ali-vilab/Ranni"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white", height=20.5></a> <a href='https://ranni-t2i.github.io/Ranni/'><img src="https://img.shields.io/badge/Project_Page-Ranni-blue' alt='Project Page"></a> <a href="https://www.youtube.com/watch?v=1IIat83Atjk"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5> </a> 
-    <br/>
+    <details> <summary><strong>Abstract</strong></summary>
+      Existing text-to-image (T2I) diffusion models usually struggle in interpreting complex prompts, especially those with quantity, object-attribute binding, and multi-subject descriptions. In this work, we introduce a semantic panel as the middleware in decoding texts to images, supporting the generator to better follow instructions. The panel is obtained through arranging the visual concepts parsed from the input text by the aid of large language models, and then injected into the denoising network as a detailed control signal to complement the text condition. To facilitate text-to-panel learning, we come up with a carefully designed semantic formatting protocol, accompanied by a fully-automatic data preparation pipeline. Thanks to such a design, our approach, which we call Ranni, manages to enhance a pre-trained T2I generator regarding its textual controllability. More importantly, the introduction of the generative middleware brings a more convenient form of interaction (i.e., directly adjusting the elements in the panel or using language instructions) and further allows users to finely customize their generation, based on which we develop a practical system and showcase its potential in continuous generation and chatting-based editing.
+    </details>
     <strong>Likely application in agriculture:</strong> Text-to-Image
 </p>
 
@@ -117,7 +130,7 @@
     <br/>
     <a href="https://arxiv.org/abs/2312.02149"><img src="https://img.shields.io/badge/arXiv-Gen Ten-b31b1b.svg" height=20.5></a> 
     <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Generative_Powers_of_Ten_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/Download%20as%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24" height=20.5></a> <a href="https://powers-of-10.github.io/"><img src="https://img.shields.io/badge/Project_Page-Generative-blue' alt='Project Page"></a>  <a href="https://www.youtube.com/watch?v=0fKBhvDjuy0"><img src="https://img.shields.io/static/v1?label=Youtube&message=Link&color=red" height=20.5></a>
-    <br/>
+
     <strong>Likely application in agriculture:</strong> Text-to-image
 </p>
 
@@ -299,6 +312,7 @@
     <strong>Likely application in agriculture:</strong> Agricultural robot localization
 </p>
 
+<a name="Documentanalysis"></a>
 ### Document analysis and understanding
 
 - <p align="left">
